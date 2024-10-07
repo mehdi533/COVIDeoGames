@@ -1,0 +1,47 @@
+# Dataset
+tmp/
+game_genres/
+game_topics/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+venv.bak/
+*.egg-info/
+.eggs/
+*.pytest_cache/
+*.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata and outputs
+.ipynb_metadata/
+*.ipynb_out/
+*.nbconvert/
+
+# Configurations
+*.DS_Store
+*.vscode/
+*.idea/
+*.env
+*.coverage
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Build directories
+build/
+dist/
+
+# Git files
+!.gitignore
